@@ -1,0 +1,61 @@
+:root { 
+    --apple: #3bbc2e;
+    --black: #000000;
+    --white: #ffffff;
+   
+    --font-size-l: 22px;
+    --font-size-m: 20px;
+    --font-size-s: 16px;
+    --font-size-xl: 24px;
+    --font-size-xxl: 42px;
+   
+    --font-family-raleway: "Raleway", Helvetica;
+  }
+  .raleway-normal-white-16px {
+    color: var(--white);
+    font-family: var(--font-family-raleway);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .raleway-semi-bold-black-20px {
+    color: var(--black);
+    font-family: var(--font-family-raleway);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .raleway-medium-white-24px {
+    color: var(--white);
+    font-family: var(--font-family-raleway);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  .raleway-extra-bold-apple-42px {
+    color: var(--apple);
+    font-family: var(--font-family-raleway);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 800;
+  }
+  
+  .raleway-bold-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-raleway);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .raleway-medium-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-raleway);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 500;
+  }
+  
